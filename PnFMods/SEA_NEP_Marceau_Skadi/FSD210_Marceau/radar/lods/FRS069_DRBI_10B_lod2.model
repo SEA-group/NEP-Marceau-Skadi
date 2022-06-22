@@ -1,0 +1,17 @@
+<FRS069_DRBI_10B_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/radar/lods/FRS069_DRBI_10B_lod3	</parent>
+	<extent>	35.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/radar/lods/FRS069_DRBI_10B_lod2	</nodefullVisual>
+	<animation>
+		<name>	Rotation5rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation5rpm	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation5rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FRS069_DRBI_10B_lod2.model>

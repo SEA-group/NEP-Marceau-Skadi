@@ -1,0 +1,7 @@
+<FGA041_20mm_Oerlikon_MK20_Twin_dead_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/lods/FGA041_20mm_Oerlikon_MK20_Twin_dead_lod2	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/lods/FGA041_20mm_Oerlikon_MK20_Twin_dead_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FGA041_20mm_Oerlikon_MK20_Twin_dead_lod1.model>

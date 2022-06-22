@@ -1,0 +1,7 @@
+<C011_Grid_9_alpha_skinned.mfm>
+	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/radar/C011_Grid_9_alpha_a.dds	</Texture>
+	</property>
+</C011_Grid_9_alpha_skinned.mfm>

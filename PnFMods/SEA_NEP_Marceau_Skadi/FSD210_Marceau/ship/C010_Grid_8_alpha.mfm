@@ -1,0 +1,10 @@
+<C010_Grid_8_alpha.mfm>
+	<fx>	shaders/std_effects/grid_alpha.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/ship/C010_Grid_8_alpha_a.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+</C010_Grid_8_alpha.mfm>

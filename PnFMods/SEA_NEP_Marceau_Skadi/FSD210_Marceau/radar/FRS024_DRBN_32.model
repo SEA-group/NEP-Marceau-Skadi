@@ -1,0 +1,17 @@
+<FRS024_DRBN_32.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/radar/lods/FRS024_DRBN_32_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/radar/FRS024_DRBN_32	</nodefullVisual>
+	<animation>
+		<name>	Rotation15rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation15rpm	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation15rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FRS024_DRBN_32.model>

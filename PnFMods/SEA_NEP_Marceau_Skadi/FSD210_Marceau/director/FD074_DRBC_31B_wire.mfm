@@ -1,0 +1,13 @@
+<FD074_DRBC_31B_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/FD074_DRBC_31B_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/FD074_DRBC_31B_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/FD074_DRBC_31B_n.dds	</Texture>
+	</property>
+</FD074_DRBC_31B_wire.mfm>

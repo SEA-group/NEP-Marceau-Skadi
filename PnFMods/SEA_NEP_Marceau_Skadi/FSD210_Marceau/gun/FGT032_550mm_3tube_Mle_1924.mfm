@@ -1,0 +1,25 @@
+<FGT032_550mm_3tube_Mle_1924.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>	
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGT032_550mm_3tube_Mle_1924_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGT032_550mm_3tube_Mle_1924_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGT032_550mm_3tube_Mle_1924_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGT032_550mm_3tube_Mle_1924_n.dds	</Texture>
+	</property>
+</FGT032_550mm_3tube_Mle_1924.mfm>

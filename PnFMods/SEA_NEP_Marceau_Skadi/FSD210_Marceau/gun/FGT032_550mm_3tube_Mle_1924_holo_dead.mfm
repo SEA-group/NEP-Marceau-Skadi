@@ -1,0 +1,57 @@
+<FGT032_550mm_3tube_Mle_1924_holo_dead.mfm>
+	<fx>	shaders/std_effects/holographic.fx	</fx>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	imageTexture
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGT032_550mm_3tube_Mle_1924_holo_dead.dds	</Texture>
+	</property>
+	<property>	maskTexture
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/SEA_Common_Mask.dds	</Texture>
+	</property>
+	<property>	shakeFactor
+		<Float>	0	</Float>
+	</property>
+	<property>	glowStrength
+		<Float>	10.33333	</Float>
+	</property>
+	<property>	glitchLineWidth
+		<Float>	0.5	</Float>
+	</property>
+	<property>	glitchLinePeriod
+		<Float>	0.5	</Float>
+	</property>
+	<property>	glitchLineOffset
+		<Float>	0	</Float>
+	</property>
+	<property>	markColor
+		<Vector4>	1 0.3 0 1	</Vector4>
+	</property>
+	<property>	waveSpeedX
+		<Float>	0.03000	</Float>
+	</property>
+	<property>	waveScaleX
+		<Float>	2	</Float>			
+	</property>
+	<property>	waveSpeedY
+		<Float>	0.03000	</Float>		
+	</property>
+	<property>	glowColor
+		<Vector4>	1 0.5 0 1	</Vector4>
+	</property>
+	<property>	foilHSpeed
+		<Float>	0	</Float>			
+	</property>
+	<property>	foilScale
+		<Float>	5	</Float>
+	</property>
+	<property>	enableRadialOpacity
+		<Bool>	true	</Bool>
+	</property>
+	<property>	enableForegroundFoil
+		<Bool>	false	</Bool>
+	</property>
+	<property>	imgFoilColor
+		<Vector4>	1 0 0 1	</Vector4>
+	</property>
+</FGT032_550mm_3tube_Mle_1924_holo_dead.mfm>

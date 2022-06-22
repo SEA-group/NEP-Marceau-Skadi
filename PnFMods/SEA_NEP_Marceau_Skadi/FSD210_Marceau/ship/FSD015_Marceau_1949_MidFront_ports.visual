@@ -1,0 +1,393 @@
+<FSD015_Marceau_1949_MidFront_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront_ports	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_FD_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.7654 1.6269 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FD_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.7300 1.3761 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FD_3	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.3207 0.6812 1.3205 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FD_4	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.3207 0.6812 1.3205 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FD_5	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.1703 0.5364 0.8426 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FD_6	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.1647 0.5364 0.8379 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.1823 0.5347 1.9366 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.1823 0.5347 1.9366 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_3	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.1573 0.3949 0.3602 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGA_4	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.1574 0.3949 0.3601 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGM_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.4090 2.8813 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FGM_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5177 2.3607 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FRS_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.1105 1.1999 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FRS_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.2525 1.0805 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.7264 1.3847 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2_side_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.2627 0.3970 2.1084 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2_side_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.3809 0.4071 1.6919 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2_side_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.3755 0.4204 0.9717 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_FloodLight_left_2	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.1060 0.5920 0.6530 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_FloodLight_right_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1050 0.5890 0.6580 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_steam_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0786 0.8250 0.4900 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_steam_left	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.4355 0.3410 1.4097 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_water_left_3	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.3423 0.0282 1.7010 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_water_right_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.3450 0.0286 1.7010 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Smoke_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.7983 0.6603 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_1	</identifier>
+				<transform>
+					<row0>	0.9999 0.0166 -0.0029 0.0000	</row0>
+					<row1>	-0.0166 0.9409 -0.3382 0.0000	</row1>
+					<row2>	-0.0029 0.3382 0.9411 0.0000	</row2>
+					<row3>	0.2715 1.0866 0.9317 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_2	</identifier>
+				<transform>
+					<row0>	0.9999 -0.0166 0.0029 0.0000	</row0>
+					<row1>	0.0166 0.9409 -0.3382 0.0000	</row1>
+					<row2>	0.0029 0.3382 0.9411 0.0000	</row2>
+					<row3>	-0.2727 1.0866 0.9317 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_3	</identifier>
+				<transform>
+					<row0>	0.9986 0.0524 -0.0080 0.0000	</row0>
+					<row1>	-0.0524 0.9533 -0.2976 0.0000	</row1>
+					<row2>	-0.0080 0.2976 0.9547 0.0000	</row2>
+					<row3>	0.2191 1.0825 0.9543 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_4	</identifier>
+				<transform>
+					<row0>	0.9986 -0.0524 0.0080 0.0000	</row0>
+					<row1>	0.0524 0.9533 -0.2976 0.0000	</row1>
+					<row2>	0.0080 0.2976 0.9547 0.0000	</row2>
+					<row3>	-0.2202 1.0826 0.9543 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_courtesy	</identifier>
+				<transform>
+					<row0>	0.9999 0.0105 -0.0018 0.0000	</row0>
+					<row1>	-0.0105 0.9399 -0.3413 0.0000	</row1>
+					<row2>	-0.0018 0.3413 0.9400 0.0000	</row2>
+					<row3>	0.3272 1.0916 0.9074 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_house	</identifier>
+				<transform>
+					<row0>	0.9999 -0.0105 0.0018 0.0000	</row0>
+					<row1>	0.0105 0.9399 -0.3413 0.0000	</row1>
+					<row2>	0.0018 0.3413 0.9400 0.0000	</row2>
+					<row3>	-0.3272 1.0916 0.9074 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_nation	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.9592 -0.2829 0.0000	</row1>
+					<row2>	0.0000 0.2829 0.9592 0.0000	</row2>
+					<row3>	0.0006 1.2704 0.8103 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_rank	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.5576 0.9167 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM022_Anchor_3	</identifier>
+				<transform>
+					<row0>	0.6364 0.0000 0.6364 0.0000	</row0>
+					<row1>	0.0000 0.9000 0.0000 0.0000	</row1>
+					<row2>	-0.6364 0.0000 0.6364 0.0000	</row2>
+					<row3>	-0.1288 0.3538 0.1298 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM040_Steering_Wheel	</identifier>
+				<transform>
+					<row0>	0.8430 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.8430 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.8430 0.0000	</row2>
+					<row3>	0.0000 0.6810 1.7408 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM879_Searchlight_30cm	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.3430 0.5387 1.1406 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM879_Searchlight_30cm_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.3430 0.5387 1.1406 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM950_Anchor_bottom	</identifier>
+				<transform>
+					<row0>	0.3325 0.5436 0.1281 0.0000	</row0>
+					<row1>	0.0913 0.0942 -0.6366 0.0000	</row1>
+					<row2>	-0.5510 0.3437 -0.0282 0.0000	</row2>
+					<row3>	0.1007 0.3522 4.3984 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM950_Anchor_bottom_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.3325 -0.5436 -0.1281 0.0000	</row0>
+					<row1>	-0.0913 0.0942 -0.6366 0.0000	</row1>
+					<row2>	0.5510 0.3437 -0.0282 0.0000	</row2>
+					<row3>	-0.1007 0.3522 4.3984 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM951_Anchor_up	</identifier>
+				<transform>
+					<row0>	0.3325 0.5436 0.1281 0.0000	</row0>
+					<row1>	-0.2242 0.2664 -0.5489 0.0000	</row1>
+					<row2>	-0.5115 0.2366 0.3238 0.0000	</row2>
+					<row3>	0.1007 0.3522 4.3984 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_FM951_Anchor_up_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.3325 -0.5436 -0.1281 0.0000	</row0>
+					<row1>	0.2242 0.2664 -0.5489 0.0000	</row1>
+					<row2>	0.5115 0.2366 0.3238 0.0000	</row2>
+					<row3>	-0.1007 0.3522 4.3984 1.0000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.0667 -0.0667 -0.0667	</min>
+		<max>	0.0667 0.0667 0.0667	</max>
+	</boundingBox>
+</FSD015_Marceau_1949_MidFront_ports.visual>

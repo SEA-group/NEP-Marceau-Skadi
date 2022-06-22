@@ -1,0 +1,7 @@
+<FD074_DRBC_31B.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/lods/FD074_DRBC_31B_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/FD074_DRBC_31B	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</FD074_DRBC_31B.model>

@@ -1,0 +1,28 @@
+<FD074_DRBC_31B.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>	
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/FD074_DRBC_31B_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/FD074_DRBC_31B_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/director/FD074_DRBC_31B_n.dds	</Texture>
+	</property>
+	<property>	g_detailAlbedoInfluence
+		<Float>	0.0000	</Float>
+	</property>
+</FD074_DRBC_31B.mfm>

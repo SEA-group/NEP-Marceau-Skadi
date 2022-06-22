@@ -1,0 +1,25 @@
+<FGA030_40mm_Bofors_Mk1.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>	
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	150	</Int>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGA030_40mm_Bofors_Mk1_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGA030_40mm_Bofors_Mk1_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGA030_40mm_Bofors_Mk1_n.dds	</Texture>
+	</property>
+</FGA030_40mm_Bofors_Mk1.mfm>

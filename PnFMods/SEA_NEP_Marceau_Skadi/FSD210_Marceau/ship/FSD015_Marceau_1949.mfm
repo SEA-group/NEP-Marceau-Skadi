@@ -1,0 +1,46 @@
+<FSD015_Marceau_1949.mfm>
+	<fx>	shaders/std_effects/PBS_ship_anim_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>
+	<property>	animEmissionPower
+		<Float>	2.30000	</Float>
+	</property>	
+	<property>	animScale
+		<Vector4>	1	1	1	1	</Vector4>
+	</property>
+	<property>	maskColor1
+		<Vector4>	0	0	0	1	</Vector4>
+	</property>
+	<property>	maskColor2
+		<Vector4>	0.4	0.1	0.1	1	</Vector4>
+	</property>
+	<property>	maskSpeed
+		<Vector4>	-0.012	0	1	0	</Vector4>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	250	</Int>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/ship/FSD015_Marceau_1949_ao.dds	</Texture>
+	</property>
+	<property>	animMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/ship/FSD015_Marceau_1949_anim.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/ship/FSD015_Marceau_1949_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/ship/FSD015_Marceau_1949_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/ship/FSD015_Marceau_1949_n.dds	</Texture>
+	</property>
+</FSD015_Marceau_1949.mfm>
