@@ -1,8 +1,5 @@
 <FGT032_550mm_3tube_Mle_1924_holo.mfm>
 	<fx>	shaders/std_effects/holographic.fx	</fx>
-	<property>	doubleSided
-		<Bool>	true	</Bool>
-	</property>
 	<property>	imageTexture
 		<Texture>	PnFMods/SEA_NEP_Marceau_Skadi/FSD210_Marceau/gun/FGT032_550mm_3tube_Mle_1924_holo.dds	</Texture>
 	</property>
